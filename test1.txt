@@ -1,0 +1,10 @@
+ Volume in drive D is DATA
+ Volume Serial Number is B689-E422
+
+ Directory of D:\git
+
+08/04/2020  08:01 PM    <DIR>          .
+08/04/2020  08:01 PM    <DIR>          ..
+08/04/2020  08:01 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  248,275,050,496 bytes free
